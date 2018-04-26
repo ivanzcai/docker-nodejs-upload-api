@@ -1,0 +1,23 @@
+{
+  "name": "docker_nodejs_api",
+  "version": "1.0.0",
+  "description": "node.js api on docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcai2672/docker-nodejs-upload-api.git"
+  },
+  "author": "ivan.z.cai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcai2672/docker-nodejs-upload-api/issues"
+  },
+  "homepage": "https://github.com/zcai2672/docker-nodejs-upload-api#readme"
+}
